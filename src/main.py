@@ -37,9 +37,9 @@ current_path = Path().absolute()
 # ------------------------------
 #%% Utils
 from os import path
-log_file_path = current_path.parent / "config" / "logging.conf"
-logging.config.fileConfig(log_file_path, disable_existing_loggers=False)
-logger = logging.getLogger(__name__)
+#log_file_path = current_path.parent / "config" / "logging.conf"
+#logging.config.fileConfig(log_file_path, disable_existing_loggers=False)
+#logger = logging.getLogger(__name__)
 
 # ------------------------------
 #%% Fonction "somme"
@@ -69,6 +69,6 @@ if __name__ == "__main__":
     Test = doctest.testmod(verbose=True)
     print(Test)
 
-    logger.info("\n[Test du script 'Main.py']\n \
-        {resultats}\n"
-        .format(resultats=Test))
+    #logger.info("\n[Test du script 'Main.py']\n \
+    #    {resultats}\n"
+    #    .format(resultats=Test))
