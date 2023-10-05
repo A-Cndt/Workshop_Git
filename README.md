@@ -87,3 +87,4 @@ port variants git
 sudo port install git +bash_completion +credential_osxkeychain +doc
 ```
 
+Modif à supprimer
