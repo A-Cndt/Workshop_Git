@@ -1,5 +1,5 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/A-Cndt/Workshop_Git?color=blue&label=Contributors&logo=GitHub)](https://github.com/A-Cndt/Workshop_Git/graphs/contributors)
-[![Branchs](https://badgen.net/badge/Branchs/2/blue?icon=github)](https://github.com/A-Cndt/Workshop_Git/branches)
+[![Branchs](https://badgen.net/badge/Branchs/3/blue?icon=github)](https://github.com/A-Cndt/Workshop_Git/branches)
 ![GitHub repo size](https://img.shields.io/github/repo-size/A-Cndt/Workshop_Git?color=blue&label=Repo%20Size&logo=git&logoColor=white)
 
 [![GitHub last commit (branch)](https://img.shields.io/github/last-commit/A-Cndt/Workshop_Git/main?label=Last%20Commit)](https://github.com/A-Cndt/Workshop_Git/commit/main)
