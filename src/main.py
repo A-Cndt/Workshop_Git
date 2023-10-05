@@ -32,7 +32,7 @@ from pathlib import Path
 
 # ------------------------------
 #%% Variables Hard-Codées
-current_path: pathlib.Path = Path().absolute()
+current_path: Path = Path().absolute()
 
 # ------------------------------
 #%% Utils
