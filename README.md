@@ -12,7 +12,8 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/A-Cndt/Workshop_Git?color=blueviolet&label=Lastest%20Release)](https://github.com/A-Cndt/Workshop_Git/tags)
 ![GitHub](https://img.shields.io/github/license/A-Cndt/Workshop_Git?color=blueviolet&label=License)
 
-![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/A-Cndt/Workshop_Git/documentation.yml?logo=sphynx&label=Documentation%20Sphynx&link=https%3A%2F%2Fa-cndt.github.io%2FWorkshop_Git%2F)
+[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/A-Cndt/Workshop_Git/documentation.yml?logo=sphynx&label=Documentation%20Sphynx&)](https://a-cndt.github.io/Workshop_Git/)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/A-Cndt/Workshop_Git/python_app.yml?logo=Python&logoColor=white&label=Test%20des%20modules)
 
 # Introduction à l'usage de Git pour le contrôle de version
 **IPSA 2023 - 2024**
