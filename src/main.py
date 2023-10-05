@@ -32,7 +32,7 @@ from pathlib import Path
 
 # ------------------------------
 #%% Variables Hard-Codées
-current_path = Path().absolute()
+current_path: pathlib.Path = Path().absolute()
 
 # ------------------------------
 #%% Utils
@@ -43,7 +43,7 @@ from os import path
 
 # ------------------------------
 #%% Fonction "somme"
-def somme(a, b):
+def somme(a: float , b: float):
     """
     Fonction qui retourne la somme de deux nombres flottants
 
@@ -61,7 +61,7 @@ def somme(a, b):
 
     """
 
-    S = a + b
+    S: float = a + b
     return S
 
 #%% Main
